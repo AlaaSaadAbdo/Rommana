@@ -9,6 +9,3 @@ A 30 key well powered by Xioa BLE
 ## Pictures
 ![1](images/1.jpg)
 ![2](images/2.jpg)
-
-### TODO:
-1. Add tents
