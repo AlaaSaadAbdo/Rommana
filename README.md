@@ -15,4 +15,4 @@ A 30 key well powered by Xioa BLE
 ![2](images/2.jpg)
 
 ## Credits and references
-This keyboard wouldn't be possible without the help and videos of [Quentin](https://github.com/bstiq) of BastardKB [BastardKB](https://bastardkb.com)
+This keyboard wouldn't be possible without the help and videos of [Quentin](https://github.com/bstiq) of [BastardKB](https://bastardkb.com)
