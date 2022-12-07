@@ -13,3 +13,6 @@ A 30 key well powered by Xioa BLE
 ## Pictures
 ![1](images/1.jpg)
 ![2](images/2.jpg)
+
+## Credits and references
+This keyboard wouldn't be possible without the help and videos of [Quentin](https://github.com/bstiq) of BastardKB [BastardKB](https://bastardkb.com)
