@@ -1,0 +1,8 @@
+Comment,Designator,Footprint,LCSC
+1N4148,"D1,D2,D3",D_DO-35_SOD27_P7.62mm_Horizontal_Reversible,C8598
+Conn_01x04_Female,J5,4x2THT,
+SW_Push,SW3,Kailh_MX-CHOC,
+Conn_01x04_Female,J2,4x2THT,
+SW_Push,SW2,Kailh_hotswap_only_MX-CHOC,
+Conn_01x04_Female,J3,4x2THT,
+SW_Push,SW1,Kailh_hotswap_only_MX-CHOC,

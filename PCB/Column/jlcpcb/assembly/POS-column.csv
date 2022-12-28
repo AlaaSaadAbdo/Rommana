@@ -1,0 +1,19 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,1N4148,D_DO-35_SOD27_P7.62mm_Horizontal_Reversible,206.078401,-80.630247,90.0,bottom
+D1,1N4148,D_DO-35_SOD27_P7.62mm_Horizontal_Reversible,183.983892,-80.530441,90.0,bottom
+D2,1N4148,D_DO-35_SOD27_P7.62mm_Horizontal_Reversible,205.983046,-104.983411,90.0,bottom
+D2,1N4148,D_DO-35_SOD27_P7.62mm_Horizontal_Reversible,183.888537,-104.883605,90.0,bottom
+D3,1N4148,D_DO-35_SOD27_P7.62mm_Horizontal_Reversible,209.804,-129.286,180.0,bottom
+D3,1N4148,D_DO-35_SOD27_P7.62mm_Horizontal_Reversible,187.709491,-129.186194,180.0,bottom
+J2,Conn_01x04_Female,4x2THT,219.973641,-78.738932,0.0,top
+J2,Conn_01x04_Female,4x2THT,197.879132,-78.639126,0.0,top
+J3,Conn_01x04_Female,4x2THT,197.745491,-127.926194,0.0,top
+J3,Conn_01x04_Female,4x2THT,219.84,-128.026,0.0,top
+J5,Conn_01x04_Female,4x2THT,219.874672,-103.013976,0.0,top
+J5,Conn_01x04_Female,4x2THT,197.780163,-102.91417,0.0,top
+SW1,SW_Push,Kailh_hotswap_only_MX-CHOC,192.281491,-76.354194,0.0,top
+SW1,SW_Push,Kailh_hotswap_only_MX-CHOC,214.376,-76.454,0.0,top
+SW2,SW_Push,Kailh_hotswap_only_MX-CHOC,192.281491,-100.552194,0.0,top
+SW2,SW_Push,Kailh_hotswap_only_MX-CHOC,214.376,-100.652,0.0,top
+SW3,SW_Push,Kailh_MX-CHOC,214.376,-124.75,0.0,top
+SW3,SW_Push,Kailh_MX-CHOC,192.281491,-124.650194,0.0,top
