@@ -18,4 +18,8 @@ A 30 key well powered by Xioa BLE
 - A hand wire by Rafael Romao: [Build Log](https://github.com/rafaelromao/keyboards/blob/main/docs/rommana.md)
 
 ## Credits and references
-This keyboard wouldn't be possible without the help and videos of [Quentin](https://github.com/bstiq) of [BastardKB](https://bastardkb.com)
+- This keyboard wouldn't be possible without the help and videos of [Quentin](https://github.com/bstiq) of [BastardKB](https://bastardkb.com)
+- Fix the MCU holder power circuit:
+  -  [safstromo](https://github.com/safstromo)
+  -  [il](https://github.com/il2076)
+
