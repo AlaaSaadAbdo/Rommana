@@ -16,6 +16,7 @@ A 30 key well powered by Xioa BLE
 
 ## Build logs
 - A hand wire by Rafael Romao: [Build Log](https://github.com/rafaelromao/keyboards/blob/main/docs/rommana.md)
+- Build log with MCU holder by Oliver Säfström: [Build Log](https://github.com/safstromo/keyboards/blob/main/buildlogs/rommana/rommana.md)
 
 ## Credits and references
 - This keyboard wouldn't be possible without the help and videos of [Quentin](https://github.com/bstiq) of [BastardKB](https://bastardkb.com)
