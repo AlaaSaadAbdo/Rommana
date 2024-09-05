@@ -1,5 +1,5 @@
 # Rommana
-A 30 key well powered by Xioa BLE
+A 30 key well powered by Xiao BLE
 
 ### Parts
 - MCU: 2x Seeeduino Xiao BLE
