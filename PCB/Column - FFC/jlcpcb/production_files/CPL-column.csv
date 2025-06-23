@@ -1,0 +1,7 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,1N4148,D_SOD-123-rotated,183.983892,-80.530441,90.0,bottom
+D2,1N4148,D_SOD-123-rotated,184.179194,-100.447332,90.0,bottom
+D3,1N4148,D_SOD-123-rotated,184.175,-123.4,90.0,bottom
+J1,Conn_01x12_Socket,FPC-SMD_FPC05012-09200-.5mm-rev,201.294,-73.7,270.0,bottom
+J4,Conn_01x12_Socket,FPC-SMD_FPC05012-09200-.5mm-rev,201.069,-96.525,270.0,bottom
+J6,Conn_01x12_Socket,FPC-SMD_FPC05012-09200-.5mm-rev,201.069,-120.7,270.0,bottom
